@@ -8,6 +8,7 @@ Welcome to the ChromaDB labs! These hands-on labs will guide you through working
 - Visual Studio
 - Visual Studio Extension for Jupyter notebooks (https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-renderers)
 - Basic understanding of Python and Jupyter Notebooks.
+- Dataset - https://www.kaggle.com/datasets/simaanjali/emotion-analysis-based-on-text
 
 **Getting Started**
 
