@@ -17,7 +17,7 @@ git clone [https://github.com/your-username/chromadb-labs](https://github.com/ze
 
 ****Set up your environment****
 ```
-cd chromadb-labs
+cd chromadb-tutorial
 ./setup_env.sh 
 ```
 
