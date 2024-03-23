@@ -1,0 +1,52 @@
+[
+    {
+        "id": "dress_3456",
+        "text": "Elegant summer dress made from flowing fabric, featuring a floral print design.",
+        "metadata": {
+            "category": "Clothing",
+            "brand": "Sunshine Designs",
+            "price": 79.99,
+            "image_url": "https://example.com/summer_dress.jpg" 
+        }
+    },
+    {
+        "id": "sneakers_9812",
+        "text": "Comfortable and stylish sneakers with breathable mesh uppers and supportive soles.",
+        "metadata": {
+            "category": "Shoes",
+            "brand": "Swift Kicks",
+            "price": 64.99,
+            "image_url": "https://example.com/mesh_sneakers.jpg" 
+        }
+    },
+    {
+        "id": "watch_0031",
+        "text": "Classic stainless steel watch with a timeless design and leather strap.",
+        "metadata": {
+            "category": "Accessories",
+            "brand": "Timely Co.",
+            "price": 129.99,
+            "image_url": "https://example.com/stainless_watch.jpg" 
+        }
+    },
+    {
+        "id": "blender_654",
+        "text": "Powerful blender for smoothies, soups, and crushing ice.",
+        "metadata": {
+            "category": "Home Appliances",
+            "brand": "KitchenPro",
+            "price": 89.99,
+            "image_url": "https://example.com/power_blender.jpg" 
+        }
+    },
+    {
+        "id": "headphones_5567",
+        "text": "Noise-cancelling headphones with immersive sound and long battery life.",
+        "metadata": {
+            "category": "Electronics",
+            "brand": "AudioScape",
+            "price": 249.99,
+            "image_url": "https://example.com/noise_cancelling_headphones.jpg" 
+        }
+    }
+]
